@@ -1,0 +1,11 @@
+{
+  "name": "url-shortener",
+  "packageManager": "yarn@3.3.0",
+  "homepage": "https://jan-friebe.de",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "dependencies": {
+    "netlify-shortener": "^2.4.0"
+  }
+}
